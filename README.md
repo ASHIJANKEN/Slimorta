@@ -1,2 +1,2 @@
-# thinpact
-Thin and compact portable keyboad.
+# Thinpact
+A thin and compact portable keyboad.
