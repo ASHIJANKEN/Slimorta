@@ -1,1 +1,15 @@
-.DS_Store
+*.DS_Store
+*.net
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.dsn
+*.ses
+*.bin
+*.zip
+*.xml
+
+fp-info-cache
+pdf/
+*.pdf
