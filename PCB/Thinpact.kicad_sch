@@ -13592,7 +13592,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprints:Choc_Hotswap_1u"
+		(property "Footprint" "footprints:Choc_Hotswap_1u_Small"
 			(at 62.23 152.4 0)
 			(effects
 				(font
