@@ -9,6 +9,9 @@
 *.bin
 *.zip
 *.xml
+*.lck
+*autosave*
+*auto_saved*
 
 fp-info-cache
 pdf/
