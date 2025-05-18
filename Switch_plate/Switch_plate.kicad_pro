@@ -511,7 +511,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Switch_plate.net",
-      "plot": "",
+      "plot": "../Gerber_data/v0.0.1/Switch_plate/",
       "pos_files": "",
       "specctra_dsn": "Switch_plate.dsn",
       "step": "",

@@ -511,7 +511,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "Thinpact.net",
-      "plot": "",
+      "plot": "../Gerber_data/v0.0.1/Main_board/",
       "pos_files": "",
       "specctra_dsn": "Thinpact.dsn",
       "step": "",
