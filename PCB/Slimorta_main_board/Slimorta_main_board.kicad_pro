@@ -475,7 +475,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Thinpact.kicad_pro",
+    "filename": "Slimorta_main_board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -510,11 +510,11 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "Thinpact.net",
+      "netlist": "Slimorta_main_board.net",
       "plot": "../Gerber_data/v0.0.1/Main_board/",
       "pos_files": "",
-      "specctra_dsn": "Thinpact.dsn",
-      "step": "",
+      "specctra_dsn": "Slimorta_main_board.dsn",
+      "step": "Slimorta_main_board.step",
       "svg": "",
       "vrml": ""
     },

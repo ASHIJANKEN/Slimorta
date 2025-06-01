@@ -1,2 +1,2 @@
-# Thinpact
-A thin and compact portable keyboad.
+# Slimorta
+A slim and portable keyboad.

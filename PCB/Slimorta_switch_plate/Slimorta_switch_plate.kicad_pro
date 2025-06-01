@@ -475,7 +475,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Switch_plate.kicad_pro",
+    "filename": "Slimorta_switch_plate.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -510,10 +510,10 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "Switch_plate.net",
+      "netlist": "Slimorta_switch_plate.net",
       "plot": "../Gerber_data/v0.0.1/Switch_plate/",
       "pos_files": "",
-      "specctra_dsn": "Switch_plate.dsn",
+      "specctra_dsn": "Slimorta_switch_plate.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
